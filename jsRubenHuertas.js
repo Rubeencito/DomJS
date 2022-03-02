@@ -1,1 +1,2 @@
-document.getElementById("titol").style.color = "red";
+let mayus = document.getElementById("mayus");
+mayus.innerHTML = mayus.innerHTML.toUpperCase();
